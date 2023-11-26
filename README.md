@@ -4,18 +4,14 @@
 
 - <b>The Legend of Claude</b>
   - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/matthewrherrera1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/matthewrherrera1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/matthewrherrera1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/matthewrherrera1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/matthewrherrera1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
+- <b>AI Algorithm Practice</b>
+  - [Mini-max w/ Tic Tac Toe](https://github.com/matthewrherrera1/4chan-Image-Analysis-Middleware-C964)
+  - [Knights Riddle](https://github.com/matthewrherrera1/Sentinel-Lab)
+  - [Degrees of Separation](https://github.com/matthewrherrera1/Jwipe.PowerShell)
+
+- <b>My own website with SSL certificate!</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/matthewrherrera1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/matthewrherrera1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/matthewrherrera1/Key-Logger-With-Email)
-- <b>Python</b>
+- <b>Research Project: Redteaming ChatGPT </b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/matthewrherrera1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>👨‍💻 Google Cybersecurity Professional Projects:</h2>
