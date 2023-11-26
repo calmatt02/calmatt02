@@ -1,4 +1,4 @@
-<h1>Hey there, I'm Matthew <br/><a href="https://github.com/calmatt02">Programmer</a>, <a href="https://www.linkedin.com/in/matthewrherrera/">Cybersecurity Professional</a></h1>
+<h1>Hey! I'm Matthew <br/><a href="https://github.com/calmatt02">Programmer</a>, <a href="https://www.linkedin.com/in/matthewrherrera/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -15,8 +15,34 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/matthewrherrera1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>👨‍💻 Google Cybersecurity Professional Projects:</h2>
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/matthewrherrera1/Algorithms-Practice)
+
+- <b>Incident Report</b>
+  - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
+- <b>Identifying Type of Network Attack Report</b>
+  - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
+- <b>Applying NIST Framework for Incident Report</b>
+  - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
+- <b>Identifying Type of Network Attack Report</b>
+  - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
+- <b>Managing File Permissions w/ Linux</b>
+  - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
+- <b>Applying filters to SQL Queries</b>
+  - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
+- <b>Analyzing Vulnerable System For Small Business</b>
+  - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
+- <b>Creating Hash Values</b>
+  - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
+- <b>Applying PASTA threat model framework</b>
+  - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
+- <b>Explore signatures and logs w/ Suricata</b>
+  - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
+- <b>Updating File w/ Python algorithm</b>
+  - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
+
+<h2>👨‍💻 Home and Office Network w/ Cisco Packet Tracer:</h2>
+
+- <b>The Legend of Claude</b>
+  - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
 
 
 <h2> 🤳 Connect with me:</h2>
