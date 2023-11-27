@@ -5,14 +5,14 @@
 - <b>The Legend of Claude</b>
   - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
 - <b>AI Algorithm Practice</b>
-  - [Mini-max w/ Tic Tac Toe](https://github.com/matthewrherrera1/4chan-Image-Analysis-Middleware-C964)
-  - [Knights Riddle](https://github.com/matthewrherrera1/Sentinel-Lab)
-  - [Degrees of Separation](https://github.com/matthewrherrera1/Jwipe.PowerShell)
+  - [Mini-max w/ Tic Tac Toe](https://github.com/calmatt02/tictactoe)
+  - [Knights Riddle](https://github.com/calmatt02/knights)
+  - [Degrees of Separation](https://github.com/calmatt02/degrees-separation)
 
 - <b>My own website with SSL certificate!</b>
   - [Portfolio website](https://github.com/calmatt02/website)
 - <b>Research Project: Redteaming ChatGPT </b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/matthewrherrera1/Package-Delivery-Pathfinding-Algorithm)
+  - [Research Paper](https://github.com/calmatt02/redteamproject)
 
 <h2>👨‍💻 Google Cybersecurity Professional Projects:</h2>
 
