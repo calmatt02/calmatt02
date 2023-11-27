@@ -37,7 +37,7 @@
 - <b>Explore signatures and logs w/ Suricata</b>
   - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
 - <b>Updating File w/ Python algorithm</b>
-  - [C# Game Programmer](https://github.com/calmatt02/update-file-python)
+  - [Python Programmer](https://github.com/calmatt02/update-file-python)
 
 <h2>👨‍💻 Home and Office Network w/ Cisco Packet Tracer:</h2>
 
