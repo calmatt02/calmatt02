@@ -27,7 +27,7 @@
 - <b>Managing File Permissions w/ Linux</b>
   - [Systems Administrator](https://github.com/calmatt02/file-permissions)
 - <b>Applying filters to SQL Queries</b>
-  - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
+  - [SQL Programmer](https://github.com/calmatt02/filters-sql-queries)
 - <b>Analyzing Vulnerable System For Small Business</b>
   - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
 - <b>Creating Hash Values</b>
