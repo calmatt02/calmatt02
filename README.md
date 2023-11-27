@@ -25,7 +25,7 @@
 - <b>Identifying Type of Network Attack Report</b>
   - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
 - <b>Managing File Permissions w/ Linux</b>
-  - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
+  - [Systems Administrator](https://github.com/calmatt02/file-permissions)
 - <b>Applying filters to SQL Queries</b>
   - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
 - <b>Analyzing Vulnerable System For Small Business</b>
