@@ -33,8 +33,8 @@
 
 <h2>👨‍💻 Home and Office Network w/ Cisco Packet Tracer:</h2>
 
-- <b>The Legend of Claude</b>
-  - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
+- <b>Simple Network</b>
+  - [Network Configuration](https://github.com/calmatt02/network-pt)
 
 
 <h2> 🤳 Connect with me:</h2>
