@@ -20,8 +20,6 @@
   - [Analyzed w/ WireShark](https://github.com/calmatt02/cs-incident-report)
 - <b>Identifying Type of Network Attack Report</b>
   - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
-- <b>Applying NIST Framework for Incident Report</b>
-  - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
 - <b>Identifying Type of Network Attack Report</b>
   - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
 - <b>Managing File Permissions w/ Linux</b>
@@ -29,8 +27,6 @@
 - <b>Applying filters to SQL Queries</b>
   - [SQL Programmer](https://github.com/calmatt02/filters-sql-queries)
 - <b>Analyzing Vulnerable System For Small Business</b>
-  - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
-- <b>Applying PASTA threat model framework</b>
   - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
 - <b>Explore signatures and logs w/ Suricata</b>
   - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
