@@ -21,7 +21,7 @@
 - <b>Incident Report w/ Network Analysis</b>
   - [Look at UDP protocol 53](https://github.com/calmatt02/network-analysis-report)
 - <b>Analyzing Vulnerability Assessment Report</b>
-  - [Security Analyst](https://github.com/Icastillo10/Capstone-project)
+  - [Security Analyst](https://github.com/calmatt02/vulnerability-assessment)
 - <b>Managing File Permissions w/ Linux</b>
   - [Systems Administrator](https://github.com/calmatt02/file-permissions)
 - <b>Applying filters to SQL Queries</b>
