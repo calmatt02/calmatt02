@@ -26,8 +26,6 @@
   - [Systems Administrator](https://github.com/calmatt02/file-permissions)
 - <b>Applying filters to SQL Queries</b>
   - [SQL Programmer](https://github.com/calmatt02/filters-sql-queries)
-- <b>Explore signatures and logs w/ Suricata</b>
-  - [C# Game Programmer](https://github.com/Icastillo10/Capstone-project)
 - <b>Updating File w/ Python algorithm</b>
   - [Python Programmer](https://github.com/calmatt02/update-file-python)
 
