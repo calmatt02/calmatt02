@@ -13,6 +13,11 @@
   - [Portfolio website](https://github.com/calmatt02/website)
 - <b>Research Project: Redteaming ChatGPT </b>
   - [Research Paper](https://github.com/calmatt02/redteamproject)
+ 
+<h2>👨‍💻 Azure Sentinel SIEM Honeypot and Map of Cyber Attacks:</h2>
+
+- <b>SOC Analyst</b>
+  - [Honeypot Lab](https://github.com/calmatt02/Sentinel-Honeypot)
 
 <h2>👨‍💻 Google Cybersecurity Professional Projects:</h2>
 
