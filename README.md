@@ -23,8 +23,6 @@
 
 - <b>Incident Report</b>
   - [Analyzed w/ WireShark](https://github.com/calmatt02/cs-incident-report)
-- <b>Incident Report w/ Network Analysis</b>
-  - [Look at UDP protocol 53](https://github.com/calmatt02/network-analysis-report)
 - <b>Analyzing Vulnerability Assessment Report</b>
   - [Security Analyst](https://github.com/calmatt02/vulnerability-assessment)
 - <b>Managing File Permissions w/ Linux</b>
